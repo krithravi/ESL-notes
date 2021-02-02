@@ -1,8 +1,7 @@
-\documentclass[12pt]{article}
+\documentclass[12pt, oneside]{book}
 
-\title{myStandard}
+\title{ESL Class Notes}
 \author{Krithika Ravishankar}
-\date{May 2020} % this is a lie but whatever
 
 % BEGIN DOC SETUP
 \usepackage[T1]{fontenc}
@@ -19,11 +18,12 @@
 \usepackage{float}
 %\usepackage{amsmath,amsthm,amssymb}
 \usepackage{comment}
+\usepackage[colorlinks=false]{hyperref}
 
 % END PACKAGES
 
 % BEGIN MY COMMANDS
-% syntax for no param is 
+% syntax for no param is
 \newcommand{\ita}{\textit} %(p useful on its own too)
 % syntax for params \newcommand{\plusbinomial}[3][2]{(#2 + #3)^#1}
 % END MY COMMANDS
@@ -31,5 +31,6 @@
 \begin{document}
 \maketitle
 \newpage
-
+\tableofcontents
+\input{countries.tex}
 \end{document}
