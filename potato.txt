@@ -1,39 +1,4 @@
 
-
-do! = hacer
-
-I do
-You do
-He/She does
-We do
-They do
-
-to do homework = hacer la tarea
-to do laundry = lavar ropa
-
-Si se usa el verbo «do» 2 veces en una pregunta
-(la primera vez como verbo auxiliar y la segunda como una expresión),
-la segunda vez, siempre se usa «do» (jamás «does»)
-
-Does she/he do her/his homework?
-	No, she/he doesn't/ Yes, she/he does
-
-Do you do your homework? (Tú haces tu tarea?)
-Do they do the laundry? (Lavan la ropa?)
-
-Estar/ser = to be
-
-I am
-You are
-He/She is
-We are
-They are
-
-
-Is she tall? = Es alta?
-Is she sad? = Ella está triste?
-
-
 I like _________
 
 Does she like ________
@@ -130,48 +95,14 @@ Cuánto cuesta la chaqueta?
 Cuánto cuesta la blusa?
 	How much is the blouse?
 
-falda -> skirt
-vestido -> dress
-camisa -> T-shirt
-suéter -> sweater
-pantalones -> pants
-corbata -> tie
-zapatos -> shoes
-impermeable -> raincoat
-calcetines -> socks
-pantalones cortos -> shorts
-Bermuda shorts
 
-zapatos amarillos -> yellow shoes
-falda verde -> green skirt
-vestido rojo -> red dress
-calcetines negros -> black socks
-camisa blanca -> white shirt
-corbata morada -> purple tie
-
-
-Does she like to play the guitar?
-	Yes, she does/No she doesn't
-
-Do you guys (y'all) like listening to music?
-	Yes, we do/ No, we don't
-
-
-Do you like listening to music?
-	Yes, I do.
-	Yes, I like to listen to music.
-	Yes, I like listening to music.
-
-lih-sehn
-lih-sehn-ihng
 
 Do you like watching TV?
 	Yes, I do.
 	Yes, I like to watch TV.
 	Yes, I like watching (wa-ching) TV.
 
-watch (ver) = wach
-wash (lavar)
+
 
 \begin{comment}
 	Does he not like to cook?
