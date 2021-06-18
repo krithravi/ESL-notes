@@ -11,16 +11,6 @@ Vengo de <país>/<ciudad>/<estado>
 
 nacionalidad = nationality
 
-País -> Nacionalidad
-- Guatemala -> Guatemalan
-- Colombia -> Colombian
-- Honduras -> Honduran
-- México -> Mexican
-- Cuba -> Cuban
-- EEUU -> American
-- Venezuela -> Venezuelan
-- El Salvador -> Salvadoran
-
 I am American -> Yo soy estadounidense
 
 Vengo de Guatemala -> I am from Guatemala
